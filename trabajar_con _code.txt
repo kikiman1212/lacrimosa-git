@@ -1,0 +1,5 @@
+iniciamos con git init
+ para que se inicializa nuestro repositorio
+
+ con el signo + se agrga "git add"
+ 
