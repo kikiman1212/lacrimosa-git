@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 90vh;
+    background-image:url(img/lacrimosa.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+/* background-color: #611bbba1;
+background-color: #4c5262; */
+/* background-color: #690808; */
+transition: .3 linear;
+} 
+/* #formulario{
+background-color: rgb(3, 3, 14);
+}
+ */
+
+ .container{
+    margin-top: 410px;
+    width: 360px;
+    height: 50vh;
+    color: white;
+    font-weight: 600;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid trasparent;
+    background-clip: padding-box;
+    box-shadow: 10px 10p
+ }
+
+
+ 
+.container .form-control{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.w-100 {
+    width: 100%;
+    margin: 5px;
+}
+
+.lacri{
+    border-radius: 50%;
+}
+video{
+    width: 100%;
+    height: 50%;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: solid 2px #fff ;
+}
+
+header .modal{
+    margin-top: 100px;
+    margin-right: -40px;
+}
+.modal{
+    scrollbar-width: none;
+    margin-top: 100px;
+ 
+  
+}
+.modal-content{
+    width: 380px;
+
+ /*    background-color: #0b1320; */
+    color: white;
+    border: solid 2px #fff;
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    border: 2px solid trasparent;
+    background-clip: padding-box;
+    box-shadow: 10px 10
+}
+
+#video2{
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 5px;
+    border: solid 2px #fff ;
+}
+
+#recipient-name{
+    background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 10px;
+    backdrop-filter: blur(10px);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 600;
+    color: #96066d;
+}
