@@ -1,5 +1,0 @@
-este archivo file2.txt se va a agregar a la comitiada para 
-
-que sea observado por git
-
-git ignore
