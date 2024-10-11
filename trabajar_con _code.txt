@@ -4,9 +4,10 @@ iniciamos con git init
  con el signo + se agrga "git add"
 
  con selecionar la rama master podemos agregar una branch nueva desde code 
- 
+
 archivo en verde es cuando es nuevo
 archivo amarillo es porque ya lo teniamos y lo modificamos
  para poder merche "juntar" las ramas en vs code :
  nos vamos a la rama master y luego a los 3 puntitos ... a branch, luego 
  merge branch y selecionamos con la que queremos juntar "mergear"
+ 
