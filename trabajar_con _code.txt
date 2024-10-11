@@ -2,4 +2,8 @@ iniciamos con git init
  para que se inicializa nuestro repositorio
 
  con el signo + se agrga "git add"
+
+ con selecionar la rama master podemos agregar una branch nueva desde code 
  
+archivo en verde es cuando es nuevo
+archivo amarillo es porque ya lo teniamos y lo modificamos
